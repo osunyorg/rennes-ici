@@ -16,4 +16,9 @@ items:
   kind: page
   children: []
   file: content/fr/organizations/_index.html
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  children: []
+  file: content/fr/events/_index.html
 
