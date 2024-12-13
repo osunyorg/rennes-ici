@@ -29,13 +29,13 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Nos podcasts
+- title: Nos magazines
   target: "/"
   kind: page
   children: []
   path: "/"
   file: content/fr/_index.html
-- title: Nos magazines
+- title: Nos podcasts
   target: "/"
   kind: page
   children: []
