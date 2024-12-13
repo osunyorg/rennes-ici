@@ -5,6 +5,12 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Aides et solidarités
+    target: "/actualites/aides-et-solidarites/"
+    kind: category
+    children: []
+    path: "/posts_categories/aides-et-solidarites"
+    file: content/fr/posts_categories/aides-et-solidarites/_index.html
   - title: Culture et sports
     target: "/actualites/culture-et-sports/"
     kind: category
