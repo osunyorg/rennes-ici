@@ -23,4 +23,10 @@ items:
     children: []
     path: "/posts_categories/culture-et-sports"
     file: content/fr/posts_categories/culture-et-sports/_index.html
+  - title: Logement et urbanisme
+    target: "/actualites/logement-et-urbanisme/"
+    kind: category
+    children: []
+    path: "/posts_categories/logement-et-urbanisme"
+    file: content/fr/posts_categories/logement-et-urbanisme/_index.html
 
