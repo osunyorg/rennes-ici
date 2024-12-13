@@ -47,6 +47,12 @@ items:
     children: []
     path: "/posts_categories/sante-et-environnement"
     file: content/fr/posts_categories/sante-et-environnement/_index.html
+  - title: Déchets et propreté
+    target: "/actualites/dechets-et-proprete/"
+    kind: category
+    children: []
+    path: "/posts_categories/dechets-et-proprete"
+    file: content/fr/posts_categories/dechets-et-proprete/_index.html
 - title: Culture et sports
   target: "/actualites/culture-et-sports/"
   kind: category
