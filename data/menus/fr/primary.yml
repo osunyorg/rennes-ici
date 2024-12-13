@@ -59,12 +59,6 @@ items:
     children: []
     path: "/posts_categories/dechets-et-proprete"
     file: content/fr/posts_categories/dechets-et-proprete/_index.html
-- title: Enfance, éducation, jeunesse
-  target: "/actualites/enfance-education-jeunesse/"
-  kind: category
-  children: []
-  path: "/posts_categories/enfance-education-jeunesse"
-  file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
 - title: Nos magazines
   target: "/"
   kind: page
