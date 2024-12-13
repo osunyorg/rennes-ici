@@ -23,6 +23,12 @@ items:
     children: []
     path: "/posts_categories/enfance-education-jeunesse"
     file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
+  - title: Transports et circulation
+    target: "/actualites/transports-et-circulation/"
+    kind: category
+    children: []
+    path: "/posts_categories/transports-et-circulation"
+    file: content/fr/posts_categories/transports-et-circulation/_index.html
 - title: Culture et sports
   target: "/actualites/culture-et-sports/"
   kind: category
