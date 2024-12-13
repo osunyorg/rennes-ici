@@ -25,10 +25,8 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Culture et sports
-  target: "/actualites/formats/"
-  kind: category
+- title: Toutes nos thématiques
+  target: ''
+  kind: blank
   children: []
-  path: "/posts_categories/formats"
-  file: content/fr/posts_categories/formats/_index.html
 
