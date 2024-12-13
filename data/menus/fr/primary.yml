@@ -26,9 +26,9 @@ items:
   path: "/events"
   file: content/fr/events/_index.html
 - title: Culture et sports
-  target: "/actualites/culture-et-sports/"
+  target: "/actualites/formats/"
   kind: category
   children: []
-  path: "/posts_categories/culture-et-sports"
-  file: content/fr/posts_categories/culture-et-sports/_index.html
+  path: "/posts_categories/formats"
+  file: content/fr/posts_categories/formats/_index.html
 
