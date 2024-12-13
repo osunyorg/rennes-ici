@@ -59,12 +59,6 @@ items:
     children: []
     path: "/posts_categories/dechets-et-proprete"
     file: content/fr/posts_categories/dechets-et-proprete/_index.html
-- title: Transports et circulation
-  target: "/actualites/transports-et-circulation/"
-  kind: category
-  children: []
-  path: "/posts_categories/transports-et-circulation"
-  file: content/fr/posts_categories/transports-et-circulation/_index.html
 - title: Enfance, éducation, jeunesse
   target: "/actualites/enfance-education-jeunesse/"
   kind: category
