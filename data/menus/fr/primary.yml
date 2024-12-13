@@ -29,4 +29,10 @@ items:
     children: []
     path: "/posts_categories/logement-et-urbanisme"
     file: content/fr/posts_categories/logement-et-urbanisme/_index.html
+  - title: Enfance, éducation, jeunesse
+    target: "/actualites/enfance-education-jeunesse/"
+    kind: category
+    children: []
+    path: "/posts_categories/enfance-education-jeunesse"
+    file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
 
