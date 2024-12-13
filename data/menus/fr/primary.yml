@@ -71,7 +71,7 @@ items:
   children: []
   path: "/"
   file: content/fr/_index.html
-- title: Agenda
+- title: En ce moment
   target: "/agenda/"
   kind: page
   children: []
