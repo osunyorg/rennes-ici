@@ -47,4 +47,10 @@ items:
   children: []
   path: "/posts_categories/culture-et-sports"
   file: content/fr/posts_categories/culture-et-sports/_index.html
+- title: Transports et circulation
+  target: "/actualites/transports-et-circulation/"
+  kind: category
+  children: []
+  path: "/posts_categories/transports-et-circulation"
+  file: content/fr/posts_categories/transports-et-circulation/_index.html
 
