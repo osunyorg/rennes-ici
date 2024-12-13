@@ -29,6 +29,12 @@ items:
     children: []
     path: "/posts_categories/transports-et-circulation"
     file: content/fr/posts_categories/transports-et-circulation/_index.html
+  - title: Economie et emploi
+    target: "/actualites/economie-et-emploi/"
+    kind: category
+    children: []
+    path: "/posts_categories/economie-et-emploi"
+    file: content/fr/posts_categories/economie-et-emploi/_index.html
 - title: Culture et sports
   target: "/actualites/culture-et-sports/"
   kind: category
