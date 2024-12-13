@@ -35,6 +35,12 @@ items:
     children: []
     path: "/posts_categories/economie-et-emploi"
     file: content/fr/posts_categories/economie-et-emploi/_index.html
+  - title: Enseignement supérieur et recherche
+    target: "/actualites/enseignement-superieur-et-recherche/"
+    kind: category
+    children: []
+    path: "/posts_categories/enseignement-superieur-et-recherche"
+    file: content/fr/posts_categories/enseignement-superieur-et-recherche/_index.html
 - title: Culture et sports
   target: "/actualites/culture-et-sports/"
   kind: category
