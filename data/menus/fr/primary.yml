@@ -41,6 +41,12 @@ items:
     children: []
     path: "/posts_categories/enseignement-superieur-et-recherche"
     file: content/fr/posts_categories/enseignement-superieur-et-recherche/_index.html
+  - title: Santé et environnement
+    target: "/actualites/sante-et-environnement/"
+    kind: category
+    children: []
+    path: "/posts_categories/sante-et-environnement"
+    file: content/fr/posts_categories/sante-et-environnement/_index.html
 - title: Culture et sports
   target: "/actualites/culture-et-sports/"
   kind: category
