@@ -53,4 +53,10 @@ items:
   children: []
   path: "/"
   file: content/fr/_index.html
+- title: Enfance, éducation, jeunesse
+  target: "/actualites/enfance-education-jeunesse/"
+  kind: category
+  children: []
+  path: "/posts_categories/enfance-education-jeunesse"
+  file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
 
