@@ -4,76 +4,89 @@ items:
 - title: Toutes nos thématiques
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Aides et solidarités
     target: "/actualites/aides-et-solidarites/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/aides-et-solidarites"
     file: content/fr/posts_categories/aides-et-solidarites/_index.html
   - title: Culture et sports
     target: "/actualites/culture-et-sports/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/culture-et-sports"
     file: content/fr/posts_categories/culture-et-sports/_index.html
   - title: Logement et urbanisme
     target: "/actualites/logement-et-urbanisme/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/logement-et-urbanisme"
     file: content/fr/posts_categories/logement-et-urbanisme/_index.html
   - title: Enfance, éducation, jeunesse
     target: "/actualites/enfance-education-jeunesse/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/enfance-education-jeunesse"
     file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
   - title: Transports et circulation
     target: "/actualites/transports-et-circulation/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/transports-et-circulation"
     file: content/fr/posts_categories/transports-et-circulation/_index.html
   - title: Economie et emploi
     target: "/actualites/economie-et-emploi/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/economie-et-emploi"
     file: content/fr/posts_categories/economie-et-emploi/_index.html
   - title: Enseignement supérieur et recherche
     target: "/actualites/enseignement-superieur-et-recherche/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/enseignement-superieur-et-recherche"
     file: content/fr/posts_categories/enseignement-superieur-et-recherche/_index.html
   - title: Santé et environnement
     target: "/actualites/sante-et-environnement/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/sante-et-environnement"
     file: content/fr/posts_categories/sante-et-environnement/_index.html
   - title: Déchets et propreté
     target: "/actualites/dechets-et-proprete/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/dechets-et-proprete"
     file: content/fr/posts_categories/dechets-et-proprete/_index.html
 - title: Nos magazines
   target: "/"
   kind: page
+  new_tab: false
   children: []
   path: "/"
   file: content/fr/_index.html
 - title: Nos podcasts
   target: "/"
   kind: page
+  new_tab: false
   children: []
   path: "/"
   file: content/fr/_index.html
 - title: En ce moment
   target: "/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
