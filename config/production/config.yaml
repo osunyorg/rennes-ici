@@ -2,6 +2,11 @@
 
 baseURL: https://ici.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 13cc5216-ba68-4bb4-a3e7-47a4bd615708
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
