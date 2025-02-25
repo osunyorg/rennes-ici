@@ -8,6 +8,13 @@ items:
   children: []
   path: "/"
   file: content/fr/_index.html
+- title: Nos dossiers
+  target: "/nos-dossiers/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/nos-dossiers"
+  file: content/fr/pages/nos-dossiers/_index.html
 - title: Nos podcasts
   target: "/"
   kind: page
@@ -90,11 +97,4 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Nos dossiers
-  target: "/nos-dossiers/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/nos-dossiers"
-  file: content/fr/pages/nos-dossiers/_index.html
 
