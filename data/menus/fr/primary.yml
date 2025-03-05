@@ -90,6 +90,13 @@ items:
     children: []
     path: "/posts_categories/dechets-proprete"
     file: content/fr/posts_categories/dechets-proprete/_index.html
+  - title: Institutions, citoyenneté
+    target: "/actualites/institution-citoyennete/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/institution-citoyennete"
+    file: content/fr/posts_categories/institution-citoyennete/_index.html
 - title: En ce moment
   target: "/agenda/"
   kind: page
