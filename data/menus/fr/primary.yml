@@ -77,12 +77,12 @@ items:
     path: "/posts_categories/numerique-recherche"
     file: content/fr/posts_categories/numerique-recherche/_index.html
   - title: Santé et environnement
-    target: "/actualites/sante-et-environnement/"
+    target: "/actualites/sante-environnement/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/sante-et-environnement"
-    file: content/fr/posts_categories/sante-et-environnement/_index.html
+    path: "/posts_categories/sante-environnement"
+    file: content/fr/posts_categories/sante-environnement/_index.html
   - title: Déchets et propreté
     target: "/actualites/dechets-et-proprete/"
     kind: category
