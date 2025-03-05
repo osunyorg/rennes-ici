@@ -41,6 +41,13 @@ items:
     children: []
     path: "/posts_categories/transports-circulation"
     file: content/fr/posts_categories/transports-circulation/_index.html
+  - title: Enfance, éducation, jeunesse
+    target: "/actualites/enfance-education-jeunesse/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/enfance-education-jeunesse"
+    file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
   - title: Culture, sports
     target: "/actualites/culture-sports/"
     kind: category
@@ -55,13 +62,6 @@ items:
     children: []
     path: "/posts_categories/logement-urbanisme"
     file: content/fr/posts_categories/logement-urbanisme/_index.html
-  - title: Enfance, éducation, jeunesse
-    target: "/actualites/enfance-education-jeunesse/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/enfance-education-jeunesse"
-    file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
   - title: Economie, emploi
     target: "/actualites/economie-emploi/"
     kind: category
