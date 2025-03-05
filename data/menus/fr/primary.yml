@@ -2,12 +2,12 @@
 title: Menu principal
 items:
 - title: Nos magazines
-  target: "/nos-magazines/"
+  target: "/nos-journaux/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/nos-magazines"
-  file: content/fr/pages/nos-magazines/_index.html
+  path: "/pages/nos-journaux"
+  file: content/fr/pages/nos-journaux/_index.html
 - title: Nos podcasts
   target: "/"
   kind: page
