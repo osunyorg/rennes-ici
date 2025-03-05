@@ -34,6 +34,13 @@ items:
     children: []
     path: "/posts_categories/solidarites-egalite"
     file: content/fr/posts_categories/solidarites-egalite/_index.html
+  - title: Transports, circulation
+    target: "/actualites/transports-circulation/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/transports-circulation"
+    file: content/fr/posts_categories/transports-circulation/_index.html
   - title: Culture, sports
     target: "/actualites/culture-sports/"
     kind: category
@@ -55,13 +62,6 @@ items:
     children: []
     path: "/posts_categories/enfance-education-jeunesse"
     file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
-  - title: Transports, circulation
-    target: "/actualites/transports-circulation/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/transports-circulation"
-    file: content/fr/posts_categories/transports-circulation/_index.html
   - title: Economie, emploi
     target: "/actualites/economie-emploi/"
     kind: category
