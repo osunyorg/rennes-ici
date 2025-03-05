@@ -35,12 +35,12 @@ items:
     path: "/posts_categories/solidarites-egalite"
     file: content/fr/posts_categories/solidarites-egalite/_index.html
   - title: Culture et sports
-    target: "/actualites/culture-et-sports/"
+    target: "/actualites/culture-sports/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/culture-et-sports"
-    file: content/fr/posts_categories/culture-et-sports/_index.html
+    path: "/posts_categories/culture-sports"
+    file: content/fr/posts_categories/culture-sports/_index.html
   - title: Logement et urbanisme
     target: "/actualites/logement-et-urbanisme/"
     kind: category
