@@ -70,12 +70,12 @@ items:
     path: "/posts_categories/economie-emploi"
     file: content/fr/posts_categories/economie-emploi/_index.html
   - title: Enseignement supérieur et recherche
-    target: "/actualites/enseignement-superieur-et-recherche/"
+    target: "/actualites/numerique-recherche/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/enseignement-superieur-et-recherche"
-    file: content/fr/posts_categories/enseignement-superieur-et-recherche/_index.html
+    path: "/posts_categories/numerique-recherche"
+    file: content/fr/posts_categories/numerique-recherche/_index.html
   - title: Santé et environnement
     target: "/actualites/sante-et-environnement/"
     kind: category
