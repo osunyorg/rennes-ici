@@ -83,7 +83,7 @@ items:
     children: []
     path: "/posts_categories/sante-environnement"
     file: content/fr/posts_categories/sante-environnement/_index.html
-  - title: Déchets et propreté
+  - title: Déchets, propreté
     target: "/actualites/dechets-proprete/"
     kind: category
     new_tab: false
