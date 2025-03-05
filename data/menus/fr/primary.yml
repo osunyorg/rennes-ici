@@ -62,7 +62,7 @@ items:
     children: []
     path: "/posts_categories/transports-circulation"
     file: content/fr/posts_categories/transports-circulation/_index.html
-  - title: Economie et emploi
+  - title: Economie, emploi
     target: "/actualites/economie-emploi/"
     kind: category
     new_tab: false
