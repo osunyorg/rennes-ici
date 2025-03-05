@@ -76,7 +76,7 @@ items:
     children: []
     path: "/posts_categories/numerique-recherche"
     file: content/fr/posts_categories/numerique-recherche/_index.html
-  - title: Santé et environnement
+  - title: Santé, environnement
     target: "/actualites/sante-environnement/"
     kind: category
     new_tab: false
