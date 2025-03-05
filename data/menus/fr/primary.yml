@@ -69,7 +69,7 @@ items:
     children: []
     path: "/posts_categories/economie-emploi"
     file: content/fr/posts_categories/economie-emploi/_index.html
-  - title: Enseignement supérieur et recherche
+  - title: Numérique, recherche
     target: "/actualites/numerique-recherche/"
     kind: category
     new_tab: false
