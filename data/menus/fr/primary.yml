@@ -34,7 +34,7 @@ items:
     children: []
     path: "/posts_categories/solidarites-egalite"
     file: content/fr/posts_categories/solidarites-egalite/_index.html
-  - title: Culture et sports
+  - title: Culture, sports
     target: "/actualites/culture-sports/"
     kind: category
     new_tab: false
