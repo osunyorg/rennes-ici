@@ -63,12 +63,12 @@ items:
     path: "/posts_categories/transports-circulation"
     file: content/fr/posts_categories/transports-circulation/_index.html
   - title: Economie et emploi
-    target: "/actualites/economie-et-emploi/"
+    target: "/actualites/economie-emploi/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/economie-et-emploi"
-    file: content/fr/posts_categories/economie-et-emploi/_index.html
+    path: "/posts_categories/economie-emploi"
+    file: content/fr/posts_categories/economie-emploi/_index.html
   - title: Enseignement supérieur et recherche
     target: "/actualites/enseignement-superieur-et-recherche/"
     kind: category
