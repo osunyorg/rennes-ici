@@ -69,6 +69,13 @@ items:
     children: []
     path: "/posts_categories/numerique-recherche"
     file: content/fr/posts_categories/numerique-recherche/_index.html
+  - title: Santé, environnement
+    target: "/actualites/sante-environnement/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/sante-environnement"
+    file: content/fr/posts_categories/sante-environnement/_index.html
   - title: Culture, sports
     target: "/actualites/culture-sports/"
     kind: category
@@ -83,13 +90,6 @@ items:
     children: []
     path: "/posts_categories/economie-emploi"
     file: content/fr/posts_categories/economie-emploi/_index.html
-  - title: Santé, environnement
-    target: "/actualites/sante-environnement/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/sante-environnement"
-    file: content/fr/posts_categories/sante-environnement/_index.html
   - title: Institutions, citoyenneté
     target: "/actualites/institution-citoyennete/"
     kind: category
