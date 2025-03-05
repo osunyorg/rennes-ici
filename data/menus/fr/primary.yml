@@ -27,7 +27,7 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Aides et solidarités
+  - title: Solidarités, égalité
     target: "/actualites/solidarites-egalite/"
     kind: category
     new_tab: false
