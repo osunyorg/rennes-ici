@@ -28,12 +28,12 @@ items:
   new_tab: false
   children:
   - title: Aides et solidarités
-    target: "/actualites/aides-et-solidarites/"
+    target: "/actualites/solidarites-egalite/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/aides-et-solidarites"
-    file: content/fr/posts_categories/aides-et-solidarites/_index.html
+    path: "/posts_categories/solidarites-egalite"
+    file: content/fr/posts_categories/solidarites-egalite/_index.html
   - title: Culture et sports
     target: "/actualites/culture-et-sports/"
     kind: category
