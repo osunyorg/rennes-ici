@@ -27,6 +27,13 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: Institutions, citoyenneté
+    target: "/actualites/institution-citoyennete/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/institution-citoyennete"
+    file: content/fr/posts_categories/institution-citoyennete/_index.html
   - title: Solidarités, égalité
     target: "/actualites/solidarites-egalite/"
     kind: category
@@ -90,13 +97,6 @@ items:
     children: []
     path: "/posts_categories/culture-sports"
     file: content/fr/posts_categories/culture-sports/_index.html
-  - title: Institutions, citoyenneté
-    target: "/actualites/institution-citoyennete/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/institution-citoyennete"
-    file: content/fr/posts_categories/institution-citoyennete/_index.html
 - title: En ce moment
   target: "/agenda/"
   kind: page
