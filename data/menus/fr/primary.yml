@@ -48,6 +48,13 @@ items:
     children: []
     path: "/posts_categories/enfance-education-jeunesse"
     file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
+  - title: Déchets, propreté
+    target: "/actualites/dechets-proprete/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/dechets-proprete"
+    file: content/fr/posts_categories/dechets-proprete/_index.html
   - title: Culture, sports
     target: "/actualites/culture-sports/"
     kind: category
@@ -83,13 +90,6 @@ items:
     children: []
     path: "/posts_categories/sante-environnement"
     file: content/fr/posts_categories/sante-environnement/_index.html
-  - title: Déchets, propreté
-    target: "/actualites/dechets-proprete/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/dechets-proprete"
-    file: content/fr/posts_categories/dechets-proprete/_index.html
   - title: Institutions, citoyenneté
     target: "/actualites/institution-citoyennete/"
     kind: category
