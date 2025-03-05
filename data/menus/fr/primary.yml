@@ -41,7 +41,7 @@ items:
     children: []
     path: "/posts_categories/culture-sports"
     file: content/fr/posts_categories/culture-sports/_index.html
-  - title: Logement et urbanisme
+  - title: Logement, urbanisme
     target: "/actualites/logement-urbanisme/"
     kind: category
     new_tab: false
