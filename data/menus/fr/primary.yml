@@ -97,7 +97,7 @@ items:
     children: []
     path: "/posts_categories/culture-sports"
     file: content/fr/posts_categories/culture-sports/_index.html
-- title: En ce moment
+- title: Agenda
   target: "/agenda/"
   kind: page
   new_tab: false
