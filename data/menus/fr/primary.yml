@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Toutes nos actus
-  target: ''
-  kind: blank
+  target: https://ici.rennes.osuny.site/actualites/
+  kind: url
   new_tab: false
   children: []
 - title: Nos journaux
