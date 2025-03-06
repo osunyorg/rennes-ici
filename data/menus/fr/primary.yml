@@ -9,12 +9,12 @@ items:
   path: "/pages/nos-journaux"
   file: content/fr/pages/nos-journaux/_index.html
 - title: Nos podcasts
-  target: "/"
+  target: "/nos-podcasts/"
   kind: page
   new_tab: false
   children: []
-  path: "/"
-  file: content/fr/_index.html
+  path: "/pages/nos-podcasts"
+  file: content/fr/pages/nos-podcasts/_index.html
 - title: Nos dossiers
   target: "/nos-dossiers/"
   kind: page
