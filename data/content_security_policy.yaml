@@ -12,3 +12,5 @@ allowed_domains:
   - "youtube-nocookie.com"
   - "www.youtube-nocookie.com"
   - "player.ausha.co"
+  - "openagenda.com"
+  - "cdn.openagenda.com"
