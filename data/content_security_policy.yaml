@@ -16,3 +16,5 @@ allowed_domains:
   - "openagenda.com"
   - "cdn.openagenda.com"
   - "mviewer.sig.rennesmetropole.fr"
+  - "w.soundcloud.com"
+  - "soundcloud.com"
