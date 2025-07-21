@@ -4,6 +4,5 @@ params:
   # RENNES THEME CUSTOM
   custom:
     search_global:
-      active: false
-  search:
-    active: true
+      active: true
+      index: "ici"
