@@ -1,2 +1,6 @@
 custom:
   site: 'ICI RENNES MÉTROPOLE Actualités'
+  search:
+    label: Rechercher une actualité
+    placeholder: Rechercher une actualité...
+    submit: Rechercher une actualité
