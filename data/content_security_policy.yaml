@@ -15,5 +15,5 @@ allowed_domains:
   - "openagenda.com"
   - "cdn.openagenda.com"
   - "mviewer.sig.rennesmetropole.fr"
-  - "player.vimeo.com"
   - "heyzine.com"
+  - "player.vimeo.com"
