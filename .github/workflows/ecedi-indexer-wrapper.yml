@@ -1,0 +1,22 @@
+name: ecedi - Content indexation
+
+on:
+  workflow_dispatch:
+    inputs:
+      env:
+        description: 'Target environment'
+        type: choice
+        required: true
+        options: [ staging ]
+
+jobs:
+  run-indexer-manual:
+    if: ${{ github.event_name == 'workflow_dispatch' }}
+    uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@staging
+    with:
+      api_url: ${{ inputs.env == 'staging' && secrets.ECEDI_INDEXER_API_URL_STAGING }}
+    secrets:
+      ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY }}
+      ECEDI_API_BASIC_AUTH: ${{ secrets.ECEDI_API_BASIC_AUTH_STAGING }}
+      ECEDI_INDEXER_API_URL: ${{ secrets.ECEDI_INDEXER_API_URL_STAGING }}
+
