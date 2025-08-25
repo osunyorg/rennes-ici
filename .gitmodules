@@ -4,3 +4,6 @@
 [submodule "themes/rennes-hugo-theme"]
 	path = themes/rennes-hugo-theme
 	url = git@github.com:osunyorg/rennes-theme.git
+[submodule "modules/search-engine-indexer"]
+	path = modules/search-engine-indexer
+	url = git@gitlab.ecedi.fr:rennes-ville-metropole/rennes-ville-et-metropole-script-indexation-moteur-de-recherche.git
