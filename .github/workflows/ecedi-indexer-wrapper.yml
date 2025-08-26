@@ -7,14 +7,14 @@ on:
         description: 'Target environment'
         type: choice
         required: true
-        options: [ staging ]
+        options: [ staging, production ]
 
 jobs:
   run-indexer-manual:
     if: ${{ github.event_name == 'workflow_dispatch' }}
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@staging
     with:
-      api_url: ${{ inputs.environment == 'staging' && vars.ECEDI_INDEXER_API_URL_STAGING }}
+      api_url: ${{ inputs.environment == 'staging' && vars.ECEDI_INDEXER_API_URL_STAGING || vars.ECEDI_INDEXER_API_URL_PROD }}
       app_env: ${{ inputs.environment }}
     secrets:
       ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY_STAGING }}
