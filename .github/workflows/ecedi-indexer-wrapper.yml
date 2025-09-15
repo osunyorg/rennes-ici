@@ -14,10 +14,9 @@ jobs:
     if: ${{ github.event_name == 'workflow_dispatch' }}
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-search-engine-indexer.yml@staging
     with:
-      api_url: ${{ inputs.environment == 'staging' && vars.ECEDI_INDEXER_API_URL_STAGING || vars.ECEDI_INDEXER_API_URL_PROD }}
+      api_url: ${{ inputs.environment == 'staging' && vars.ECEDI_INDEXER_API_URL_STAGING }}
       app_env: ${{ inputs.environment }}
     secrets:
       ECEDI_INDEXER_API_KEY: ${{ secrets.ECEDI_INDEXER_API_KEY_STAGING }}
       ECEDI_API_BASIC_AUTH: ${{ secrets.ECEDI_API_BASIC_AUTH_STAGING }}
-      ECEDI_INDEXER_API_URL: ${{ secrets.ECEDI_INDEXER_API_URL_STAGING }}
 
