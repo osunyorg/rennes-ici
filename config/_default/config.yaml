@@ -3,6 +3,8 @@ _merge: deep
 params:
   # RENNES THEME CUSTOM
   custom:
-    search:
+    search_global:
       active: true
-      index: "ici"
+      url: "https://chercher.metropole.rennes.fr/?index=ici"
+  search:
+    active: false
