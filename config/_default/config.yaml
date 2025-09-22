@@ -4,7 +4,7 @@ params:
   # RENNES THEME CUSTOM
   custom:
     search_global:
-      active: true
+      active: false
       url: "https://chercher.metropole.rennes.fr/?index=ici"
   search:
-    active: false
+    active: true
