@@ -14,6 +14,6 @@ allowed_domains:
   - "player.ausha.co"
   - "openagenda.com"
   - "cdn.openagenda.com"
-  - "heyzine.com"
   - "mviewer.sig.rennesmetropole.fr"
+  - "heyzine.com"
   - "player.vimeo.com"
