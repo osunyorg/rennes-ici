@@ -1,0 +1,13 @@
+---
+title: >-
+  Crues : vigilance orange
+level: warning
+content: >-
+  <p><b>L’Ille-et-Vilaine est placé en vigilance orange crues jusqu’à vendredi, a annoncé Météo-France.</b></p>
+button:
+  title: >-
+    Consulter le site d'information Vigicrues
+  url: >-
+    https://vigilance.meteofrance.fr/fr/ille-et-vilaine
+  target_blank: true
+---
