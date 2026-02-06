@@ -1,14 +1,14 @@
 ---
 id: 80f08020-1abb-402e-b4af-5474fe242680
 title: >-
-  Vigilance jaune crue
+  Vigilance crue
 level: info
 content: >-
-  <p>Une vigilance jaune crue est en cours sur l'Ille, la Seiche et la Vilaine Médiane ce vendredi 6 février 2026. Soyez prudents.</p>
+  <p>Vigicrues fait figurer au stade jaune le niveau de vigilance pour les crues en Ille-et-Vilaine. Rennes et le territoire métropolitain sont <b>en vigilance renforcée.</b> Soyez prudents.</p>
 button:
   title: >-
-    En savoir plus
+    Voir notre actualité
   url: >-
-    https://www.vigicrues.gouv.fr/territoire/8
-  target_blank: true
+    https://ici.rennes.fr/actualites/2026-02-06-les-services-de-la-ville-de-rennes-et-de-rennes-metropole-en-vigilance-face-au-risque-dinondations/
+  target_blank: false
 ---
