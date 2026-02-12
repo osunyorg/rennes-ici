@@ -27,7 +27,7 @@ items:
   children: []
   path: "/pages/nos-dossiers"
   file: content/fr/pages/nos-dossiers/_index.html
-- title: Toutes nos thématiques
+- title: Nos thématiques
   target: ''
   kind: blank
   new_tab: false
