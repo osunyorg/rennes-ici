@@ -2,104 +2,144 @@
 title: Menu principal
 items:
 - title: Nos actus
+  slug: nos-actus
   target: "/actualites/"
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Nos journaux
+  slug: nos-journaux
   target: "/nos-journaux/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/nos-journaux"
   file: content/fr/pages/nos-journaux/_index.html
 - title: Nos podcasts
+  slug: nos-podcasts
   target: "/nos-podcasts/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/nos-podcasts"
   file: content/fr/pages/nos-podcasts/_index.html
 - title: Nos dossiers
+  slug: nos-dossiers
   target: "/nos-dossiers/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/nos-dossiers"
   file: content/fr/pages/nos-dossiers/_index.html
 - title: Nos thématiques
+  slug: nos-thematiques
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Institutions, citoyenneté
+    slug: institutions-citoyennete
     target: "/actualites/institution-citoyennete/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/institution-citoyennete"
     file: content/fr/posts_categories/institution-citoyennete/_index.html
   - title: Solidarités, égalité
+    slug: solidarites-egalite
     target: "/actualites/solidarites-egalite/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/solidarites-egalite"
     file: content/fr/posts_categories/solidarites-egalite/_index.html
   - title: Transports, circulation
+    slug: transports-circulation
     target: "/actualites/transports-circulation/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/transports-circulation"
     file: content/fr/posts_categories/transports-circulation/_index.html
   - title: Enfance, éducation, jeunesse
+    slug: enfance-education-jeunesse
     target: "/actualites/enfance-education-jeunesse/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/enfance-education-jeunesse"
     file: content/fr/posts_categories/enfance-education-jeunesse/_index.html
   - title: Déchets, propreté
+    slug: dechets-proprete
     target: "/actualites/dechets-proprete/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/dechets-proprete"
     file: content/fr/posts_categories/dechets-proprete/_index.html
   - title: Logement, urbanisme
+    slug: logement-urbanisme
     target: "/actualites/logement-urbanisme/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/logement-urbanisme"
     file: content/fr/posts_categories/logement-urbanisme/_index.html
   - title: Numérique, recherche
+    slug: numerique-recherche
     target: "/actualites/numerique-recherche/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/numerique-recherche"
     file: content/fr/posts_categories/numerique-recherche/_index.html
   - title: Santé, environnement
+    slug: sante-environnement
     target: "/actualites/sante-environnement/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/sante-environnement"
     file: content/fr/posts_categories/sante-environnement/_index.html
   - title: Economie, emploi
+    slug: economie-emploi
     target: "/actualites/economie-emploi/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/economie-emploi"
     file: content/fr/posts_categories/economie-emploi/_index.html
   - title: Culture, sports
+    slug: culture-sports
     target: "/actualites/culture-sports/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/culture-sports"
     file: content/fr/posts_categories/culture-sports/_index.html
+  descendants_targets:
+  - "/actualites/culture-sports/"
+  - "/actualites/dechets-proprete/"
+  - "/actualites/economie-emploi/"
+  - "/actualites/enfance-education-jeunesse/"
+  - "/actualites/institution-citoyennete/"
+  - "/actualites/logement-urbanisme/"
+  - "/actualites/numerique-recherche/"
+  - "/actualites/sante-environnement/"
+  - "/actualites/solidarites-egalite/"
+  - "/actualites/transports-circulation/"
 
