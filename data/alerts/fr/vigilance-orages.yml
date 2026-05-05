@@ -1,0 +1,14 @@
+---
+id: a0ef9456-9f12-47ba-aa92-9403890e5502
+title: >-
+  Vigilance pluie et inondation
+level: info
+content: >-
+  <p>Le  département d'Ille-et-Vilaine est placé en vigilance jaune pour pluie-inondation ce mardi 5 mai et jusqu'au mercredi 6 mai. Les prévisions prévoient des pluies intenses localement. Soyez vigilants.  </p>
+button:
+  title: >-
+    Voir le bulletin de Météo-France
+  url: >-
+    https://vigilance.meteofrance.fr/fr/ille-et-vilaine
+  target_blank: true
+---
