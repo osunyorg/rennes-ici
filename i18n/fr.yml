@@ -4,3 +4,16 @@ custom:
     label: Rechercher une actualité
     placeholder: Rechercher une actualité...
     submit: Rechercher une actualité
+errors:
+  error_404:
+    title: Désolée, l’actualité que vous recherchez n’est plus en ligne.
+    text: >-
+      Cette page est certainement obsolète. Veuillez nous excuser pour la gêne occasionnée.</p>
+      <p>Nous vous invitons à :</p>
+      <ul>
+        <li>consulter <a href="/">les dernières actualités en ligne sur notre site</a> ;</li>
+        <li>feuilleter <a href="/nos-journaux/">le journal Ici Rennes Métropole du mois et les précédents numéros</a>. </li>
+      </ul>
+      <p>Vous pouvez également <a href="https://metropole.rennes.fr/contact">nous contacter</a> si vous avez des questions ou des suggestions à nous soumettre.</p>
+      <p>Merci pour votre compréhension.</p>
+      <p>L’équipe éditoriale ici.rennes.fr, le site d’actualités de Rennes Ville & Métropole.
