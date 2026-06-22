@@ -10,3 +10,10 @@ params:
   # OSUNY THEME
   search:
     active: false
+  posts:
+    index:
+      layout: list # grid | list
+      options:
+        summary: true
+        image: true
+
